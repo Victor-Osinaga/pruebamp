@@ -1,0 +1,83 @@
+{
+ "payment": [
+  {
+   "acquirer_reference": null,
+   "external_resource_url": null,
+   "financial_institution": null,
+   "installment_amount": 0,
+   "net_received_amount": 184.54,
+   "overpaid_amount": 0,
+   "payable_deferral_period": null,
+   "payment_method_reference_id": null,
+   "total_paid_amount": 200
+  },
+  {
+   "acquirer_reference": null,
+   "external_resource_url": null,
+   "financial_institution": null,
+   "installment_amount": 0,
+   "net_received_amount": 184.54,
+   "overpaid_amount": 0,
+   "payable_deferral_period": null,
+   "payment_method_reference_id": null,
+   "total_paid_amount": 200
+  },
+  {
+   "acquirer_reference": null,
+   "external_resource_url": null,
+   "financial_institution": null,
+   "installment_amount": 0,
+   "net_received_amount": 184.54,
+   "overpaid_amount": 0,
+   "payable_deferral_period": null,
+   "payment_method_reference_id": null,
+   "total_paid_amount": 200
+  },
+  {
+   "acquirer_reference": null,
+   "external_resource_url": null,
+   "financial_institution": null,
+   "installment_amount": 0,
+   "net_received_amount": 184.54,
+   "overpaid_amount": 0,
+   "payable_deferral_period": null,
+   "payment_method_reference_id": null,
+   "total_paid_amount": 200
+  }
+ ],
+ "merchant": [
+  200,
+  200,
+  200,
+  200
+ ],
+ "pagos": [
+  {
+   "id": "acc21620-05dc-4d21-afda-39d6e7f9e021",
+   "tipo_de_pago": "cuenta mp",
+   "total_de_compra": 200,
+   "neto_recibido": 184.54,
+   "comision_mp": 15.46,
+   "cuotas": 1,
+   "fecha_de_liberacion": "2023-01-28T01:48:51.000-04:00"
+  },
+  {
+   "id": "01703c77-d7c0-49b3-a6bc-03695bc653b2",
+   "tipo_de_pago": "tarjeta de credito",
+   "total_de_compra": 200,
+   "neto_recibido": 184.54,
+   "comision_mp": 15.46,
+   "tipo_de_tarjeta": "master",
+   "fecha_de_liberacion": "2023-01-28T01:52:48.000-04:00"
+  },
+  {
+   "id": "fc47845e-49b8-4a5c-b2c9-6c40cec40cd3",
+   "tipo_de_pago": "tarjeta de credito",
+   "total_de_compra": 200,
+   "neto_recibido": 184.54,
+   "comision_mp": 15.46,
+   "tipo_de_tarjeta": "master",
+   "fecha_de_liberacion": "2023-01-28T01:52:48.000-04:00"
+  }
+ ]
+}
